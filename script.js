@@ -66,11 +66,11 @@ const perguntas = [
 
         
                    texto:     "É uma data para celebrar e divulgar o folclore",
-                   afirmação: ""
+                   afirmação: "Só se for divulgar algo em cima do folclore"
                         }
                         {
                     texto:    "É uma data para relembrar a história do folclore"
-                    afirmação: ""
+                    afirmação: "Não lembro nem do meu aniversário"
                         }
                 ]
         },
