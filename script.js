@@ -8,36 +8,70 @@ const perguntas = [
         {
                 enunciado: "Quais manifestações culturais brasileiras você considera parte do folclore?",
                 alternativas: [
-                        "Comidas típicas",
-                        "Festas temáticas"
+                        {
+
+                     texto: "Comidas típicas",
+                       afirmação: "Agora entendi você só pensa em comida"
+                       
+                        }
+                                {
+                                         texto: "Festas temáticas"
+                                         afirmação: "Estudar não quer né, agora uma festinha"
+                                }
                 ]
         },
         {
                 enunciado: "Você já vivenciou alguma situação que te fez acreditar em alguma lenda do folclore brasileiro? ",
                 alternativas: [
-                        "Relatos pessoais",
-                        "Experiências"
+                        {
+                    texto:    "Relatos pessoais",
+                    afirmação: "Histórias de família"
+                        }
+                        {
+                       texto: "Experiências"
+                       afirmação: "Que medo!"
+                        }
                 ]
         },
         {
                 enunciado: "Qual a principal característica do Saci-Pererê?",
                 alternativas: [
-                        "Sua travessura",
-                        "Sua esperteza"
+                        {
+                      texto:  "Sua travessura",
+                      afirmação:"Parece o menino maluquinho"
+                        }
+                        {
+                      texto:  "Sua esperteza"
+                      afirmação: "Parece o Einstein "
+                        }
                 ]
         },
         {
                 enunciado: "Qual a principal diferença entre lenda e mito?",
                 alternativas: [
-                        "Uma lenda é baseada em fatos históricos, um mito não.",
-                        "Um mito é uma história sagrada, uma lenda não é."
+                        {
+                  texto:      "Uma lenda é baseada em fatos históricos, um mito não.",
+                  afirmação:"Já que sou verdadeiro sou uma lenda"
+                        }
+                  {
+                      texto:  "Um mito é uma história sagrada, uma lenda não é."
+                      afirmação: "Se for sagrado é mito..."
+                  }
                 ]
         },
         {
                 enunciado: "Qual a importância do Dia do Folclore (22 de agosto) para a cultura brasileira?",
                 alternativas: [
-                        "É uma data para celebrar e divulgar o folclore",
-                        "É uma data para relembrar a história do folclore"
+                        {
+
+        
+                   texto:     "É uma data para celebrar e divulgar o folclore",
+                   afirmação: ""
+                        }
+                        {
+                    texto:    "É uma data para relembrar a história do folclore"
+                    afirmação: ""
+                        }
                 ]
         },
 ];
