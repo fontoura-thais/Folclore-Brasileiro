@@ -78,7 +78,7 @@ const perguntas = [
 
 let atual = 0;
 let perguntaAtual;
-let historiaFinal = "";
+let historiaFinal = "No fim, entre brincadeiras, medos e reflexões, todos entenderam que o folclore é mais do que lendas: é parte da identidade cultural do Brasil, misturando humor, tradição e memória coletiva.";
 
 function mostraPergunta() {
     if (atual >= perguntas.length) {
