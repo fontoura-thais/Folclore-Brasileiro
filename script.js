@@ -19,7 +19,7 @@ const perguntas = [
                                          afirmação: "Estudar não quer né, agora uma festinha"
                                 }
                 ]
-        },
+        }
         {
                 enunciado: "Você já vivenciou alguma situação que te fez acreditar em alguma lenda do folclore brasileiro? ",
                 alternativas: [
