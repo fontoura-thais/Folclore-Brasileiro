@@ -11,11 +11,11 @@ const perguntas = [
                         {
 
                                 texto: "Comidas típicas",
-                                afirmação: "Agora entendi você só pensa em comida"
+                                afirmacao: "Agora entendi você só pensa em comida"
                         },
                         {
                                 texto: "Festas temáticas"
-                                afirmação: "Estudar não quer né, agora uma festinha"
+                                afirmacao: "Estudar não quer né, agora uma festinha"
                         }
                 ]
         },
@@ -24,11 +24,11 @@ const perguntas = [
                 alternativas: [
                         {
                                 texto: "Relatos pessoais",
-                                afirmação: "Histórias de família"
+                                afirmacao: "Histórias de família"
                         },
                         {
                                 texto: "Experiências"
-                                afirmação: "Que medo!"
+                                afirmacao: "Que medo!"
                         }
                 ]
         },
@@ -37,11 +37,11 @@ const perguntas = [
                 alternativas: [
                         {
                                 texto: "Sua travessura",
-                                afirmação: "Parece o menino maluquinho"
+                                afirmacao: "Parece o menino maluquinho"
                         },
                         {
                                 texto: "Sua esperteza"
-                                afirmação: "Parece o Einstein "
+                                afirmacao: "Parece o Einstein "
                         }
                 ]
         },
@@ -50,11 +50,11 @@ const perguntas = [
                 alternativas: [
                         {
                                 texto: "Uma lenda é baseada em fatos históricos, um mito não.",
-                                afirmação: "Já que sou verdadeiro sou uma lenda"
+                                afirmacao: "Já que sou verdadeiro sou uma lenda"
                         },
                         {
                                 texto: "Um mito é uma história sagrada, uma lenda não é."
-                                afirmação: "Se for sagrado é mito..."
+                                afirmacao: "Se for sagrado é mito..."
                         }
                 ]
         },
@@ -65,11 +65,11 @@ const perguntas = [
 
 
                                 texto: "É uma data para celebrar e divulgar o folclore",
-                                afirmação: "Só se for divulgar algo em cima do folclore"
+                                afirmacao: "Só se for divulgar algo em cima do folclore"
                         },
                         {
                                 texto: "É uma data para relembrar a história do folclore"
-                                afirmação: "Não lembro nem do meu aniversário"
+                                afirmacao: "Não lembro nem do meu aniversário"
                         }
                 ]
         },
