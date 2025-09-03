@@ -14,7 +14,7 @@ const perguntas = [
                                 afirmacao: "Agora entendi você só pensa em comida"
                         },
                         {
-                                texto: "Festas temáticas"
+                                texto: "Festas temáticas",
                                 afirmacao: "Estudar não quer né, agora uma festinha"
                         }
                 ]
@@ -27,7 +27,7 @@ const perguntas = [
                                 afirmacao: "Histórias de família"
                         },
                         {
-                                texto: "Experiências"
+                                texto: "Experiências",
                                 afirmacao: "Que medo!"
                         }
                 ]
@@ -40,7 +40,7 @@ const perguntas = [
                                 afirmacao: "Parece o menino maluquinho"
                         },
                         {
-                                texto: "Sua esperteza"
+                                texto: "Sua esperteza",
                                 afirmacao: "Parece o Einstein "
                         }
                 ]
@@ -53,7 +53,7 @@ const perguntas = [
                                 afirmacao: "Já que sou verdadeiro sou uma lenda"
                         },
                         {
-                                texto: "Um mito é uma história sagrada, uma lenda não é."
+                                texto: "Um mito é uma história sagrada, uma lenda não é.",
                                 afirmacao: "Se for sagrado é mito..."
                         }
                 ]
@@ -68,7 +68,7 @@ const perguntas = [
                                 afirmacao: "Só se for divulgar algo em cima do folclore"
                         },
                         {
-                                texto: "É uma data para relembrar a história do folclore"
+                                texto: "É uma data para relembrar a história do folclore",
                                 afirmacao: "Não lembro nem do meu aniversário"
                         }
                 ]
